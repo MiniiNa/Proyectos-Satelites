@@ -1,4 +1,4 @@
-# Proyecto-grupal-1
+# Atlas
 ## Mi Bitácora  
 
 📌 Qué he observado  
